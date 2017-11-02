@@ -1,4 +1,6 @@
-## Java Lab 2
+## Java Lab 0
+
+### THIS IS A PRACTICE LAB, IT IS NOT GRADED
 
 Instructions:
 
