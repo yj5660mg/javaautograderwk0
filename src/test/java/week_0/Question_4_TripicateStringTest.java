@@ -8,7 +8,7 @@ import static week_0.Question_4_Triplicate_String.triplicate;
 
 public class Question_4_TripicateStringTest {
     
-    @Test
+    @Test(timeout=3000)
     public void tripleString() {
         
         String[] in = { "cat", "CAT", "Java", "Hello World!"};

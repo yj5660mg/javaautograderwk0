@@ -13,8 +13,9 @@ import static input.InputUtils.stringInput;
 public class Question_2_Shout {
 
     public static void main(String[] args) {
-
-        // Don't modify these lines
+    
+        // You don't need to modify any of the code in the main method
+        
         String string = stringInput("Enter a string to be shouted ");
 
         String toShout = shout(string);
@@ -26,7 +27,11 @@ public class Question_2_Shout {
 
     public static String shout(String shoutThis) {
 
-        return null;   //replace this with your code
+        // TODO convert the shoutThis string to uppercase, and add "!!!" to the end.
+        // For example, change "cat" to "CAT!!!"
+        
+        // TODO replace this line with your code.
+        return null;
         
     }
 

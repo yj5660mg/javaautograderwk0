@@ -12,7 +12,8 @@ import static week_0.Question_3_Miles_To_Kilometers.milesToKilometers;
  * Created by clara on 1/4/18.
  */
 public class Question_3_Miles_To_KilometersTest {
-    @Test
+    
+    @Test(timeout=3000)
     public void milesToKilometersTest() throws Exception {
         
         String msg = "Write code in the milesToKilometers method.  " +
@@ -21,6 +22,7 @@ public class Question_3_Miles_To_KilometersTest {
         
         double delta = 0;
         
+        // some example inputs and outputs
         Map<Double, Double> inputOutput = ImmutableMap.of(
                 0.0, 0.0,
                 10.0, 16.0,
