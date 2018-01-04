@@ -27,13 +27,12 @@ public class Question_1_Add_Numbers {
 
     public static int addNumbers(int num1, int num2) {
 
-        // Add num1 and num2 and return the result.
+        // TODO write your code here, and replace this return statement with your result.
+        // It should add num1 and num2 and return the result.
         // For example, if num1 = 5 and num2 = 3, your code should calculate 5 + 3 = 8
         
-        int total = num1 + num2;  // Add num1 and num2. Save result in total
-        return total;             // Return total variable
+        return 0;
 
     }
 
 }
-
