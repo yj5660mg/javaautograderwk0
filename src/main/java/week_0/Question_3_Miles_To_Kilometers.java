@@ -3,6 +3,14 @@ package week_0;
 
 import static input.InputUtils.doubleInput;
 
+
+/**
+ 
+ Finish the milesToKilometers method.
+ This method should use the miles variable, and convert it to the equivalent number of kilometers.
+ 
+ */
+
 public class Question_3_Miles_To_Kilometers {
     
     public static void main(String[] args) {

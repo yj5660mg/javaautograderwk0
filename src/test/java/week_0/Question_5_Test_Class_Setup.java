@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 public class Question_5_Test_Class_Setup {
 
-    @Test
+    @Test(timeout = 3000)
     public void testAnswers() {
 
         Question_5_Class_Setup questions = new Question_5_Class_Setup();

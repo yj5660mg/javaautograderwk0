@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 import static week_0.Question_4_Triplicate_String.triplicate;
 
 
-public class Question_4_TripicateStringTest {
+public class Question_4_Triplicate_String_Test {
     
     @Test(timeout=3000)
     public void tripleString() {

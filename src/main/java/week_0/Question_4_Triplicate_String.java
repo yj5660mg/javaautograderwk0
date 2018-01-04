@@ -3,9 +3,11 @@ package week_0;
 import static input.InputUtils.stringInput;
 
 /**
- * Write a method that creates a String from three exact copies of itself.
- *
- * So if the method is given the string "cat", it will return "catcatcat".
+ 
+ Finish the triplicate method. This method should create a String from three exact copies of itself.
+ 
+ So if the method is given the String "cat", it will return "catcatcat".
+ 
  */
 
 public class Question_4_Triplicate_String {
@@ -23,10 +25,10 @@ public class Question_4_Triplicate_String {
         
     }
     
-    public static String triplicate(String userString) {
+    public static String triplicate(String oneString) {
         
         // TODO return a String that is three copies of the original String.
-        // Example: if userString = "Java" this method should return "JavaJavaJava".
+        // Example: if oneString = "Java" this method should return "JavaJavaJava".
         return null;
     }
     
