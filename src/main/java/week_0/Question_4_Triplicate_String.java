@@ -24,7 +24,7 @@ public class Question_4_Triplicate_String {
     public static String triplicate(String userString) {
         
         // TODO return a String that is three copies of the original String.
-        // So if userString = "Java" this method should return "JavaJavaJava".
+        // Example: if userString = "Java" this method should return "JavaJavaJava".
         return null;
     }
     

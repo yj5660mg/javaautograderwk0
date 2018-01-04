@@ -12,6 +12,14 @@ public class Question_1_Add_Numbers {
 
     public static void main(String[] args) {
     
+        String productName = "Twinkies";
+        double price = .99;
+        double totalPrice = 2.97;
+        int quantity = 3;
+        
+        System.out.println(String.format("%d %s at $%.2f each costs $%.2f",
+                quantity, productName, price, totalPrice));
+        
         System.out.println("This program will add two numbers.");
         int number1 = intInput("Please enter the first number");
         int number2 = intInput("Please enter the second number");
@@ -22,7 +30,7 @@ public class Question_1_Add_Numbers {
 
     public static int addNumbers(int num1, int num2) {
 
-        // TODO write your loop here, and replace this return statement with your result.
+        // TODO write your code here, and replace this return statement with your result.
         // It should add num1 and num2 and return the result.
         // For example, if num1 = 5 and num2 = 3, your code should calculate 5 + 3 = 8
         return 0;
