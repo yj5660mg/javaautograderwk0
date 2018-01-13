@@ -19,9 +19,10 @@ public class Question_2_Shout {
         
         String string = stringInput("Enter a string to be shouted ");
 
-        String toShout = shout(string);
-    
-        System.out.println(toShout);
+        String toShoutInUpperCase = string.toUpperCase();
+
+        System.out.println(string.toUpperCase() + "!!!");
+
 
     }
 
