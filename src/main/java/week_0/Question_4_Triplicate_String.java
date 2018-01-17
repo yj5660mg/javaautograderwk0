@@ -21,15 +21,16 @@ public class Question_4_Triplicate_String {
     
         System.out.println("Your String three times is: ");
         System.out.println(output);
-        
+
         
     }
     
     public static String triplicate(String oneString) {
-        
+
+        String myString = oneString + oneString + oneString;
         // TODO return a String that is three copies of the original String.
         // Example: if oneString = "Java" this method should return "JavaJavaJava".
-        return null;
+        return myString;
     }
     
 }

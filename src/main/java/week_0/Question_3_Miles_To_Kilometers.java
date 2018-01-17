@@ -12,7 +12,7 @@ import static input.InputUtils.doubleInput;
  */
 
 public class Question_3_Miles_To_Kilometers {
-    
+
     public static void main(String[] args) {
     
         // You don't need to modify any of the code in the main method
@@ -25,13 +25,18 @@ public class Question_3_Miles_To_Kilometers {
         System.out.println(miles + " miles is equivalent to " + km + " kilometers");
     }
 
-    public static double milesToKilometers(double miles) {
-        
-        // TODO convert the value of the variable miles to kilometers
-        // For this lab, assume 1 mile = 1.6 kilometers
-        
-        // TODO replace this line with a line that returns the number of kilometers you calculated
-        return 0;
-        
+        public static double milesToKilometers(double miles) {
+
+            double distanceInMiles;
+            distanceInMiles = miles * 1.6;
+            return distanceInMiles;
+        }
+
+        private static double kmTomiles ( double distanceInKm){
+            return distanceInKm * 0.6;
+        }
     }
-}
+
+
+
+

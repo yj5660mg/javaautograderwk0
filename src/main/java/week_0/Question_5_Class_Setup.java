@@ -21,7 +21,7 @@ package week_0;
         Set this boolean to true once you've completed this
     */
 
-    public boolean haveDoneReading = false;
+    public boolean haveDoneReading = true;
 
 
 
@@ -30,7 +30,7 @@ package week_0;
         Replace the empty string with your answer
      */
 
-    public String mostConfusingPartOfChapter1 = "";
+    public String mostConfusingPartOfChapter1 = "the process of printing out a variable";
 
 
 
@@ -39,7 +39,7 @@ package week_0;
         Replace the empty string with your answer
      */
 
-    public String mostConfusingPartOfChapter2 = "";
+    public String mostConfusingPartOfChapter2 = "Still reading Chapter 2";
 
 
 
@@ -49,7 +49,7 @@ package week_0;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalledJava8 = false;
+    public boolean haveInstalledJava8 = true;
 
 
 
@@ -62,7 +62,7 @@ package week_0;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalleOrConfirmedInstallOfdGit = false;
+    public boolean haveInstalleOrConfirmedInstallOfdGit = true;
 
 
     /* Install IntelliJ ***Ultimate*** Edition on your own computer,
@@ -70,8 +70,8 @@ package week_0;
     *    Set these boolean to true once you've completed this
      */
 
-    public boolean haveInstalledIntelliJ = false;
-    public boolean installedUltimateEdition = false;
+    public boolean haveInstalledIntelliJ = true;
+    public boolean installedUltimateEdition = true;
 
 
 
@@ -81,7 +81,7 @@ package week_0;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean canRunHelloWorldProgram = false;
+    public boolean canRunHelloWorldProgram = true;
 
 
 
@@ -91,8 +91,8 @@ package week_0;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean haveReadEntireSyllabus = false;
-    public boolean contactedClaraWithAnyQuestionsOnSyllabus = false;
+    public boolean haveReadEntireSyllabus = true;
+    public boolean contactedClaraWithAnyQuestionsOnSyllabus = true;
 
 
 
@@ -119,7 +119,7 @@ package week_0;
     * Set these boolean to true once you've completed this
     */
 
-    public boolean understandHowToDoLabs = false;
+    public boolean understandHowToDoLabs =  true;
     public boolean haveLabRepoAndGitHubSetUpCorrectly = false;
 
 
