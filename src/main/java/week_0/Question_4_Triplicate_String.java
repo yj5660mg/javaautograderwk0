@@ -27,6 +27,7 @@ public class Question_4_Triplicate_String {
     
     public static String triplicate(String oneString) {
 
+
         String myString = oneString + oneString + oneString;
         // TODO return a String that is three copies of the original String.
         // Example: if oneString = "Java" this method should return "JavaJavaJava".
